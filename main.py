@@ -2,7 +2,7 @@
 <html>
 <body>
     <h1 style="text-align:center">My Wish List</h1>
-    <img src="Wish list.jpg" style="display:block;margin: auto;width: 10%;"
+    <img src="wishlist.jpg" style="display:block;margin: auto;width: 10%;"
     alt="wishlist">
     <h3> My Self-improvement List </h3>
     <ul>
